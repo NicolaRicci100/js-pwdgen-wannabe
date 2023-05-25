@@ -5,12 +5,12 @@ const userName = prompt('dimmi il tuo nome', 'Nicola');
 console.log(userName);
 
 const userSurname = prompt('dimmi il tuo cognome', 'Ricci');
-console.log('userSurname');
+console.log(userSurname);
 
 const favColor = prompt('adesso dimmi il tuo colore preferito', 'Blu');
-console.log('userColor');
+console.log(favColor);
 
 const password = userName + userSurname + favColor + '21';
-console.log('password');
+console.log('Genero Nuova Password');
 
 document.getElementById('password').innerText = password;
