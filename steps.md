@@ -7,10 +7,10 @@ Infine scrivi sulla pagina nomecognomecolorepreferito21.*
 # STEPS
 
 - chiedi il nome all'utente
-- generea variabile nome
+- generea variabile nome (*nel log*)
 - chiedi cognome all'utente
-- genera variabile cognome
+- genera variabile cognome (*nel log*)
 - chiedi colore preferito all'utente
-- genera variabile colore
+- genera variabile colore (*nel log*)
 - somma tutte le variabli generate (*in modo che si dispongano una affianco all'altra*) e aggiungi 21
-- molstra il risultato
+- mostra il risultato (*all'utente*)
